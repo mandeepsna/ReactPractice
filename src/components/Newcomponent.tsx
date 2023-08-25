@@ -6,6 +6,7 @@ const Newcomponent = () => {
       <h3>Testing Component</h3>
       <h2>Adding in feature branch</h2>
       <h3>Git Stash Command</h3>
+      <h3>Fetch Command</h3>
     </div>
   )
 };
